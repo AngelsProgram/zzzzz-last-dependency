@@ -1,6 +1,6 @@
 {
   "name": "zzzzz-last-dependency",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Empty dependency to be the last dependency in package.json",
   "main": "index.js",
   "bin": "index.js",
