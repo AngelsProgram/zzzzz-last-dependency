@@ -1,0 +1,12 @@
+{
+  "name": "zzzzz-last-dependency",
+  "version": "0.0.1",
+  "description": "Empty dependency to be the last dependency in package.json",
+  "repository": "github:AngelsProgram/zzzzz-last-dependency",
+  "keywords": [
+    "organize",
+    "package.json"
+  ],
+  "author": "Marcelo Anjos",
+  "license": "ISC"
+}
