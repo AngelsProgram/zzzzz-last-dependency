@@ -11,7 +11,7 @@ function callback(error, stdout, stderr) {
  */
 function install(_package, _flag) {
   const package = _package.toLowerCase();
-  const command = `npm i zzzzz-${package}@github:AngelsProgram/zzzzz-last-dependency#install ${_flag}`;
+  const command = `npm i zzzzz-last-${package}@github:AngelsProgram/zzzzz-last-dependency#install ${_flag}`;
   child_process.execSync(command);
 }
 
